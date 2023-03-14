@@ -1,0 +1,4 @@
+[debug] [lab-test] Classpath dependencies List()
+[debug] [lab-test] Dependencies from configurations List(lab)
+[debug] Bloop wrote the configuration of project 'lab-test' to '/Users/ethanrichman/Desktop/lab1-l1_etri9659 Turned in/.bloop/lab-test.json'
+[success] Generated .bloop/lab-test.json
